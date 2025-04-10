@@ -1,0 +1,47 @@
+.img1, p, h1, h2, .divider{
+	width: 100%;
+	max-width: 640px;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+
+.byline {
+    font-style: italic;
+}
+
+.img1 {
+	display: block;
+    padding: 15px 0px;
+}
+
+
+.img2 {
+    display: block;
+    padding: 15px 0px;
+    width: 100%;
+    width: 800px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.4;
+    font-family: "Crimson Text";
+}
+
+
+h1, h2 {
+    font-family: "Roboto";
+}
+
+.divider {
+    height: 2px;
+    background-color: #0868ac;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    }
+
+
